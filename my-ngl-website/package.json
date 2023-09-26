@@ -1,0 +1,36 @@
+{
+  "name": "my-ngl-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "bootstrap": "^5.3.2",
+    "font-awesome": "^4.7.0",
+    "framer-motion": "^10.16.4",
+    "i18next": "^23.5.1",
+    "next": "13.4.19",
+    "next-i18next": "^14.0.3",
+    "next-translate": "^2.5.3",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.8.0",
+    "react-dom": "18.2.0",
+    "react-i18next": "^13.2.2",
+    "react-intl": "^6.4.7",
+    "styled-components": "^6.0.8",
+    "twin.macro": "^3.4.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.15",
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.4.19",
+    "postcss": "^8.4.29",
+    "tailwindcss": "^3.3.3"
+  }
+}
